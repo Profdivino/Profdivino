@@ -2,8 +2,8 @@
 - 👀 Estou interessado em aprender a criar páginas
 - 🌱 Eu sou professor
 - 💞️ Eu busco pessoas para compartilhar conhecimento
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 github.com/Profdivino
+- 😄 Divino
 - ⚡ Fun fact: ...
 
 <!---
